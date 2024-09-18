@@ -1,4 +1,4 @@
-import ButtonComponent from "./Components/buttonComponent";
+import ButtonComponent from "./Components/ButtonComponent.jsx";
 import "./home.css";
 import course1 from "../../assets/course1.png"
 import course2 from "../../assets/course2.png"
